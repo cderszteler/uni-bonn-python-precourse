@@ -29,3 +29,17 @@ This is a collection of my solutions to the assignments of the
       **[length.py](src/easy/if/length.py)**
     - [Teilen oder nicht Teilen?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/if-abfragen/004/):
       **[divide.py](src/easy/if/divide.py)**
+  - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/)
+    - [Sterne](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/001/):
+      **[stars.py](src/easy/for/stars.py)**
+    - [Kann ich dir etwas ausgeben?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/002/):
+      **[printable.py](src/easy/for/printable.py)**
+    - [Wer kommt öfters (vor)?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/005/):
+      **[count.py](src/easy/for/count.py)**
+    - [Catch the Python](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/003/):
+      **[catch.py](src/easy/for/catch.py)**
+    - [Ich kann mir schon eine Schleife binden!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/004/):
+      **[tie_a_bow.py](src/easy/for/tie_a_bow.py)**
+    - [Malen in Python](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/006/):
+      **[painting_in_python.py](src/easy/for/painting_in_python.py)**
+      *(Note: Solution uses math and just one for-loop)*
