@@ -42,4 +42,10 @@ This is a collection of my solutions to the assignments of the
       **[tie_a_bow.py](src/easy/for/tie_a_bow.py)**
     - [Malen in Python](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/for-loops/006/):
       **[painting_in_python.py](src/easy/for/painting_in_python.py)**
-      *(Note: Solution uses math and just one for-loop)*
+      *(Note: Solution uses math and just one for-loop.)*
+  - [Functions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/funktionen/)
+    - [func func func](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/funktionen/001/):
+      **[pokemon.py](src/easy/functions/pokemon.py)**
+    - [Die Idee kam mir definitiv nicht beim Einkaufen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/funktionen/002/):
+      **[shopping.py](src/easy/functions/shopping.py)**
+      *(Note: Due to unclear assignments, this task might be solved differently than expected.)*
