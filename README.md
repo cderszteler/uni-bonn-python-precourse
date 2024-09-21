@@ -49,3 +49,8 @@ This is a collection of my solutions to the assignments of the
     - [Die Idee kam mir definitiv nicht beim Einkaufen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/funktionen/002/):
       **[shopping.py](src/easy/functions/shopping.py)**
       *(Note: Due to unclear assignments, this task might be solved differently than expected.)*
+  - [Kommentare](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/kommentare/)
+    - [Was passiert hier?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/kommentare/001/):
+      **[confused.py](src/easy/comments/confused.py)**
+    - [Auslegungssache...](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/kommentare/002/):
+      **[renaming.py](src/easy/comments/renaming.py)**
