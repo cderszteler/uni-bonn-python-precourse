@@ -54,3 +54,9 @@ This is a collection of my solutions to the assignments of the
       **[confused.py](src/easy/comments/confused.py)**
     - [Auslegungssache...](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/kommentare/002/):
       **[renaming.py](src/easy/comments/renaming.py)**
+  - [Klassen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/)
+    - [Wie entstehen neue Menschen?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/001/):
+      **[human.py](src/easy/classes/human.py)**
+    - [DOOM](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/002/):
+      **[doom.py](src/easy/classes/doom.py)**
+      *(Note: The game development as a bonus part was omitted.)*
