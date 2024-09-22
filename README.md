@@ -85,3 +85,14 @@ This is a collection of my solutions to the assignments of the
       **[consumer_satisfaction.py](src/easy/strings/consumer_satisfaction.py)**
     - [Total tolle Tasks mit total tollen Strings](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/strings/002/):
       **[great_strings.py](src/easy/strings/great_strings.py)**
+  - [Dictionaries](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/dictionaries/)
+    - [Warm werden mit Dictionaries](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/dictionaries/001/):
+      **[introduction.py](src/easy/dictionaries/introduction.py)**
+    - [Schlüssel durch input hinzufügen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/dictionaries/002/):
+      **[key_input.py](src/easy/dictionaries/key_input.py)**
+    - [yranoitciD](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/dictionaries/005/):
+      **[grades.py](src/easy/dictionaries/grades.py)**
+    - [Gotta Catch'em all!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/dictionaries/003/):
+      **[pokemon.py](src/easy/dictionaries/pokemon.py)**
+    - [1+1+1+1...+1+1](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/dictionaries/004/):
+      **[counter.py](src/easy/dictionaries/counter.py)**
