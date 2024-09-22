@@ -109,4 +109,6 @@ This is a collection of my solutions to the assignments of the
   - [Exceptions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/exceptions/)
     - [Keine Macht den Ausnahmen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/exceptions/001/):
       **[exceptions.py](src/easy/exceptions/exceptions.py)**
-  -
+  - [Scopes](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/scopes/)
+    - [360 no-scope?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/scopes/001/):
+      **[360.py](src/easy/scopes/360.py)**
