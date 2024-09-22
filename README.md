@@ -106,3 +106,7 @@ This is a collection of my solutions to the assignments of the
       **[logic.py](src/easy/logic/logic.py)**
     - [Nah an Pi ran!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/logik/003/):
       **[pi.py](src/easy/logic/pi.py)**
+  - [Exceptions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/exceptions/)
+    - [Keine Macht den Ausnahmen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/exceptions/001/):
+      **[exceptions.py](src/easy/exceptions/exceptions.py)**
+  -
