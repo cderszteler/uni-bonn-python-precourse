@@ -78,3 +78,5 @@ This is a collection of my solutions to the assignments of the
       **[maximum.py](src/easy/lists/maximum.py)**
     - [Nur so durchschnittlich](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/003/)
       **[average.py](src/easy/lists/average.py)**
+    - [Auf die Technik kommt es an](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/006/)
+        **[technique.py](src/easy/lists/technique.py)**
