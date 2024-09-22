@@ -65,3 +65,5 @@ This is a collection of my solutions to the assignments of the
       *(Note: The requested design is stupid, thus some unnecessary tasks were skipped.)*
     - [Und Sie dachten Sie seien fertig](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/004/)
       **[enums.py](src/easy/classes/enums.py)**
+    - [Einladendes E-Campus](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/005/)
+      **[ecampus.py](src/easy/classes/ecampus.py)**
