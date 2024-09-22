@@ -99,3 +99,10 @@ This is a collection of my solutions to the assignments of the
   - [Sets](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/sets/)
     - [Rollen vergeben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/sets/001/):
       **[roles.py](src/easy/sets/roles.py)**
+  - [Logik](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/logik/)
+    - [Ist doch arithmetisch?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/logik/002/):
+      **[arithmetic.py](src/easy/logic/arithmetic.py)**
+    - [Ist doch logisch?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/logik/001/):
+      **[logic.py](src/easy/logic/logic.py)**
+    - [Nah an Pi ran!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/logik/003/):
+      **[pi.py](src/easy/logic/pi.py)**
