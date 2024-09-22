@@ -112,6 +112,9 @@ This is a collection of my solutions to the assignments of the
   - [Scopes](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/scopes/)
     - [360 no-scope?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/scopes/001/):
       **[360.py](src/easy/scopes/360.py)**
+  - [Debugger](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/debugger/)
+    - [5000 Schritte am Tag](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/debugger/001/):
+      **[5000_steps.py](src/easy/debugger/5000_steps.py)**
   - [Requests](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/requests/)
     - [Ich weiß wo dein Internetprovider wohnt](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/requests/001/):
       **[ip.py](src/easy/requests/ip.py)**
