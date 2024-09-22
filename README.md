@@ -67,3 +67,14 @@ This is a collection of my solutions to the assignments of the
       **[enums.py](src/easy/classes/enums.py)**
     - [Einladendes E-Campus](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/005/)
       **[ecampus.py](src/easy/classes/ecampus.py)**
+  - [Listen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/)
+    - [Number on my list](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/001/):
+      **[number.py](src/easy/lists/number.py)**
+    - [(Un)ordentliche Listen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/005/):
+      **[order.py](src/easy/lists/order.py)**
+    - [Alles eine Frage der Länge](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/004/):
+      **[length.py](src/easy/lists/length.py)**
+    - [Wer ist der Größte?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/002/)
+      **[maximum.py](src/easy/lists/maximum.py)**
+    - [Nur so durchschnittlich](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/003/)
+      **[average.py](src/easy/lists/average.py)**
