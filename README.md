@@ -96,3 +96,6 @@ This is a collection of my solutions to the assignments of the
       **[pokemon.py](src/easy/dictionaries/pokemon.py)**
     - [1+1+1+1...+1+1](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/dictionaries/004/):
       **[counter.py](src/easy/dictionaries/counter.py)**
+  - [Sets](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/sets/)
+    - [Rollen vergeben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/sets/001/):
+      **[roles.py](src/easy/sets/roles.py)**
