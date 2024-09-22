@@ -80,3 +80,8 @@ This is a collection of my solutions to the assignments of the
       **[average.py](src/easy/lists/average.py)**
     - [Auf die Technik kommt es an](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/listen/006/)
         **[technique.py](src/easy/lists/technique.py)**
+  - [Strings](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/strings/)
+    - [Kundenzufriedenheit](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/strings/001/):
+      **[consumer_satisfaction.py](src/easy/strings/consumer_satisfaction.py)**
+    - [Total tolle Tasks mit total tollen Strings](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/strings/002/):
+      **[great_strings.py](src/easy/strings/great_strings.py)**
