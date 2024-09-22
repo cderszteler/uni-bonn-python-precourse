@@ -60,3 +60,6 @@ This is a collection of my solutions to the assignments of the
     - [DOOM](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/002/):
       **[doom.py](src/easy/classes/doom.py)**
       *(Note: The game development as a bonus part was omitted.)*
+    - [Mach es doch besser!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/003/):
+      **[improve.py](src/easy/classes/improve.py)**
+      *(Note: The requested design is stupid, thus some unnecessary tasks were skipped.)*

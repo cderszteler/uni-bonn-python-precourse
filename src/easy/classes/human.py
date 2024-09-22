@@ -1,3 +1,4 @@
+# Wie entstehen neue Menschen? (https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/001/)
 class Human:
   def __init__(self, name: str, birthdate: str, sex: str):
     self.name = name
