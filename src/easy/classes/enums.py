@@ -1,3 +1,4 @@
+# Und Sie dachten Sie seien fertig (https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/004/)
 from enum import Enum
 
 

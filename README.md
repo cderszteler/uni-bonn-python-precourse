@@ -63,3 +63,5 @@ This is a collection of my solutions to the assignments of the
     - [Mach es doch besser!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/003/):
       **[improve.py](src/easy/classes/improve.py)**
       *(Note: The requested design is stupid, thus some unnecessary tasks were skipped.)*
+    - [Und Sie dachten Sie seien fertig](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/klassen/004/)
+      **[enums.py](src/easy/classes/enums.py)**
