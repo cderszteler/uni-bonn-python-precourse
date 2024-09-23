@@ -122,3 +122,6 @@ This is a collection of my solutions to the assignments of the
   - [If statements](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/if-abfragen/)
     - [Jäger des verlorenen Tages](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/if-abfragen/001/):
       **[leap_year.py](src/moderate/if/leap_year.py)**
+  - [Dictionaries](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/)
+    - [Kleines Dictionary 1x1](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/002/):
+      **[primary-school-calculating.py](src/moderate/dictionaries/primary-school-calculating.py)**
