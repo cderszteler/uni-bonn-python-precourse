@@ -130,3 +130,11 @@ This is a collection of my solutions to the assignments of the
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
       **[prime.py](src/difficult/for/prime.py)**
+
+## Points
+
+- `100 point`-assignments: *47* * 100 = 4700
+- `200 point`-assignments: *2* * 200 = 400
+- `500 point`-assignments: *1* * 500 = 500
+
+**Sum: 5600**
