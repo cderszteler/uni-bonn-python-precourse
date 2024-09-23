@@ -118,3 +118,7 @@ This is a collection of my solutions to the assignments of the
   - [Requests](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/requests/)
     - [Ich weiß wo dein Internetprovider wohnt](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/requests/001/):
       **[ip.py](src/easy/requests/ip.py)**
+- [Moderate (200 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/)
+  - [If statements](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/if-abfragen/)
+    - [Jäger des verlorenen Tages](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/if-abfragen/001/):
+      **[leap_year.py](src/moderate/if/leap_year.py)**
