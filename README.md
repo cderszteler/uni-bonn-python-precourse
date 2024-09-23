@@ -125,3 +125,7 @@ This is a collection of my solutions to the assignments of the
   - [Dictionaries](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/)
     - [Kleines Dictionary 1x1](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/002/):
       **[primary-school-calculating.py](src/moderate/dictionaries/primary-school-calculating.py)**
+- [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
+  - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
+    - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
+      **[prime.py](src/difficult/for/prime.py)**
