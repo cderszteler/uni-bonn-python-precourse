@@ -128,6 +128,17 @@ This is a collection of my solutions to the assignments of the
       *(Note: I extended the task and created a fun, little game out of it.)*
     - [Schlüssel durch input hinzufügen - Teil 2](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/001/):
       **[key_by_input.py](src/moderate/dictionaries/key_by_input.py)**
+  - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/)
+    - [Fliesenleger des Königs](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/001/):
+      **[chess_layout.py](src/moderate/for/chess_layout.py)**
+    - [Wochenende am See](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/002/):
+      **[weekend.py](src/moderate/for/weekend.py)**
+    - [Sort, sort, sort](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/003/):
+      **[sort.py](src/moderate/for/sort.py)**
+    - [Rausschmeißer](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/004/):
+      **[filter_list.py](src/moderate/for/filter_list.py)**
+    - [Split](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/006/):
+      **[split.py](src/moderate/for/split.py)**
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
