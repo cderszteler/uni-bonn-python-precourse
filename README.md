@@ -156,6 +156,18 @@ This is a collection of my solutions to the assignments of the
       **[buffer.py](src/moderate/classes/buffer.py)**
       *(Note: It is yet uncertain, whether this is an optimal and efficient solution,
       though it passes the tests.)*
+  - [Strings](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/strings/)
+    - [Das Geheimnis des Caesars](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/strings/001/):
+      **[caesar_encryption.py](src/moderate/strings/caesar_encryption.py)**
+    - [Finger vom Lichtschalter](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/strings/002/):
+      **[morse.py](src/moderate/strings/morse.py)**
+    - [Sarcastic Text Generator](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/strings/003/):
+      **[sarcasm_generator.py](src/moderate/strings/sarcasm_generator.py)**
+    - [Palindrom mordnilaP](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/strings/004/):
+      **[palindrome.py](src/moderate/strings/palindrome.py)**
+    - [Einfach zählen!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/strings/005/):
+      **[binary_numbers.py](src/moderate/strings/binary_numbers.py)**
+      *(Note: The last subtask was skipped, because it is useless and obvious.)*
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
@@ -175,7 +187,7 @@ This is a collection of my solutions to the assignments of the
 ## Points
 
 - `100 point`-assignments: *47* * 100 = 4700
-- `200 point`-assignments: *14* * 200 = 2800
+- `200 point`-assignments: *19* * 200 = 3800
 - `500 point`-assignments: *6* * 500 = 2500
 
-**Sum: 10500**
+**Sum: 11500**
