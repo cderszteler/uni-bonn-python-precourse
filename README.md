@@ -151,6 +151,8 @@ This is a collection of my solutions to the assignments of the
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
       **[prime.py](src/difficult/for/prime.py)**
+    - [Mastermind](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/001/):
+      **[counting_game.py](src/difficult/for/counting_game.py)**
   - [Comprehensions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/comprehension/)
     - [List-Comprehension](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/comprehension/001/):
       **[matrix_list.py](src/difficult/comprehension/matrix_list.py)**
