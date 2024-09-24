@@ -126,6 +126,8 @@ This is a collection of my solutions to the assignments of the
     - [Kleines Dictionary 1x1](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/002/):
       **[primary-school-calculating.py](src/moderate/dictionaries/primary-school-calculating.py)**
       *(Note: I extended the task and created a fun, little game out of it.)*
+    - [Schlüssel durch input hinzufügen - Teil 2](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/001/):
+      **[key_by_input.py](src/moderate/dictionaries/key_by_input.py)**
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
