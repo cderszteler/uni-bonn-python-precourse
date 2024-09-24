@@ -168,6 +168,11 @@ This is a collection of my solutions to the assignments of the
     - [Einfach zählen!](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/strings/005/):
       **[binary_numbers.py](src/moderate/strings/binary_numbers.py)**
       *(Note: The last subtask was skipped, because it is useless and obvious.)*
+  - [Type Hinting](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/type-hinting/)
+    - [Happy Cyber-Chris noises](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/type-hinting/001/):
+      **[easy.py](src/moderate/types/easy.py)**
+    - [Mehr Happy Cyber-Chris noises](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/type-hinting/003/):
+      **[difficult.py](src/moderate/types/difficult.py)**
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
@@ -187,7 +192,7 @@ This is a collection of my solutions to the assignments of the
 ## Points
 
 - `100 point`-assignments: *47* * 100 = 4700
-- `200 point`-assignments: *19* * 200 = 3800
+- `200 point`-assignments: *21* * 200 = 4200
 - `500 point`-assignments: *6* * 500 = 2500
 
-**Sum: 11500**
+**Sum: 11900**
