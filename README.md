@@ -139,6 +139,9 @@ This is a collection of my solutions to the assignments of the
       **[filter_list.py](src/moderate/for/filter_list.py)**
     - [Split](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/006/):
       **[split.py](src/moderate/for/split.py)**
+  - [Comprehensions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/comprehensions/)
+    - [Cyber-Comprehension-Collection](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/comprehensions/001/):
+      **[cyber.py](src/moderate/comprehension/cyber.py)**
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
