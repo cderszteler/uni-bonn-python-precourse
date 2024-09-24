@@ -147,6 +147,15 @@ This is a collection of my solutions to the assignments of the
       **[money.py](src/moderate/functions/money.py)**
     - [Pascalsches Dreieck](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/funktionen/002/):
       **[pascals_triangle.py](src/moderate/functions/pascals_triangle.py)**
+  - [Klassen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/classes/)
+    - [Eine Klasse für sich](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/classes/001/):
+      **[birthday.py](src/moderate/classes/birthday.py)**
+    - [Catch the Python](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/classes/002/):
+      **[stapler.py](src/moderate/classes/stapler.py)**
+    - [Ring der Macht](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/classes/004/):
+      **[buffer.py](src/moderate/classes/buffer.py)**
+      *(Note: It is yet uncertain, whether this is an optimal and efficient solution,
+      though it passes the tests.)*
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
@@ -166,7 +175,7 @@ This is a collection of my solutions to the assignments of the
 ## Points
 
 - `100 point`-assignments: *47* * 100 = 4700
-- `200 point`-assignments: *11* * 200 = 2200
+- `200 point`-assignments: *14* * 200 = 2800
 - `500 point`-assignments: *6* * 500 = 2500
 
-**Sum: 9900**
+**Sum: 10500**
