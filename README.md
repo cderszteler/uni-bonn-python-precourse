@@ -142,6 +142,11 @@ This is a collection of my solutions to the assignments of the
   - [Comprehensions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/comprehensions/)
     - [Cyber-Comprehension-Collection](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/comprehensions/001/):
       **[cyber.py](src/moderate/comprehension/cyber.py)**
+  - [Funktionen](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/funktionen/)
+    - [Money, Money, Money](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/funktionen/001/):
+      **[money.py](src/moderate/functions/money.py)**
+    - [Pascalsches Dreieck](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/funktionen/002/):
+      **[pascals_triangle.py](src/moderate/functions/pascals_triangle.py)**
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
@@ -150,7 +155,7 @@ This is a collection of my solutions to the assignments of the
 ## Points
 
 - `100 point`-assignments: *47* * 100 = 4700
-- `200 point`-assignments: *2* * 200 = 400
+- `200 point`-assignments: *11* * 200 = 2200
 - `500 point`-assignments: *1* * 500 = 500
 
-**Sum: 5600**
+**Sum: 7400**
