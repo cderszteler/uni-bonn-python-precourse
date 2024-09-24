@@ -151,11 +151,20 @@ This is a collection of my solutions to the assignments of the
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
       **[prime.py](src/difficult/for/prime.py)**
+  - [Comprehensions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/comprehension/)
+    - [List-Comprehension](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/comprehension/001/):
+      **[matrix_list.py](src/difficult/comprehension/matrix_list.py)**
+    - [Dict-Comprehension](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/comprehension/002/):
+      **[lorem_ipsum.py](src/difficult/comprehension/lorem_ipsum.py)**
+    - [Dict-Comprehension 2](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/comprehension/003/):
+      **[primary_school_calculating.py](src/difficult/comprehension/primary_school_calculating.py)**
+    - [Dict-Comprehension 3](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/comprehension/004/):
+      **[word_counting.py](src/difficult/comprehension/word_counting.py)**
 
 ## Points
 
 - `100 point`-assignments: *47* * 100 = 4700
 - `200 point`-assignments: *11* * 200 = 2200
-- `500 point`-assignments: *1* * 500 = 500
+- `500 point`-assignments: *5* * 500 = 2500
 
-**Sum: 7400**
+**Sum: 9400**
