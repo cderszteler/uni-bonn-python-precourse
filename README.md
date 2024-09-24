@@ -167,6 +167,6 @@ This is a collection of my solutions to the assignments of the
 
 - `100 point`-assignments: *47* * 100 = 4700
 - `200 point`-assignments: *11* * 200 = 2200
-- `500 point`-assignments: *5* * 500 = 2500
+- `500 point`-assignments: *6* * 500 = 2500
 
-**Sum: 9400**
+**Sum: 9900**
