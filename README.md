@@ -176,6 +176,9 @@ This is a collection of my solutions to the assignments of the
   - [Exceptions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/exceptions/)
     - [Ausnahmsweise](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/exceptions/001/):
       **[division.py](src/moderate/exceptions/division.py)**
+  - [Debugger](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/debugger/)
+    - [Ist doch alles richtig, oder?](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/debugger/002/):
+      **[tree.py](src/moderate/debugger/tree.py)**
 - [Difficult (500 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/)
   - [For loops](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/)
     - [Mit alten Griechen sieben](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-500/for-loops/002/):
@@ -195,7 +198,7 @@ This is a collection of my solutions to the assignments of the
 ## Points
 
 - `100 point`-assignments: *47* * 100 = 4700
-- `200 point`-assignments: *22* * 200 = 4400
+- `200 point`-assignments: *23* * 200 = 4600
 - `500 point`-assignments: *6* * 500 = 2500
 
-**Sum: 12100**
+**Sum: 12300**
