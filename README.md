@@ -124,7 +124,7 @@ This is a collection of my solutions to the assignments of the
       **[leap_year.py](src/moderate/if/leap_year.py)**
   - [Dictionaries](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/)
     - [Kleines Dictionary 1x1](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/002/):
-      **[primary-school-calculating.py](src/moderate/dictionaries/primary-school-calculating.py)**
+      **[primary_school_calculating.py](src/moderate/dictionaries/primary_school_calculating.py)**
       *(Note: I extended the task and created a fun, little game out of it.)*
     - [Schlüssel durch input hinzufügen - Teil 2](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/dictionaries/001/):
       **[key_by_input.py](src/moderate/dictionaries/key_by_input.py)**
