@@ -137,6 +137,8 @@ This is a collection of my solutions to the assignments of the
       **[sort.py](src/moderate/for/sort.py)**
     - [Rausschmeißer](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/004/):
       **[filter_list.py](src/moderate/for/filter_list.py)**
+    - [Seifenblasensortierer](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/005/):
+      **[bubble_sort.py](src/moderate/for/bubble_sort.py)**
     - [Split](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/for-loops/006/):
       **[split.py](src/moderate/for/split.py)**
   - [Comprehensions](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-200/comprehensions/)
