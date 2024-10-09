@@ -1,6 +1,9 @@
 This is a collection of my solutions to the assignments of the
 [Python Precourse at Uni Bonn](https://itsec.cs.uni-bonn.de/vorkurs/).
 
+**Note: This is the only repository that is duplicated
+[from my personal profile](https://github.com/cderszteler/uni-bonn-python-precourse).**
+
 # Assignments
 
 - [Easy (100 points)](https://itsec.cs.uni-bonn.de/vorkurs/aufgaben-fuer-100/)
